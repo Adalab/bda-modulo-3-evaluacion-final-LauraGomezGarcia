@@ -1,7 +1,7 @@
 # Módulo 3: Ejercicio de Evaluación Final 
 
 Este repositorio contiene la resolución del ejercicio de evaluación final del Módulo 3 de Data Analytics, centrado en el análisis del comportamiento de clientes dentro de un programa de lealtad de una aerolínea.
-Podeis encontrar adicionalmente los ficheros originales y el fichero tras la limpieza y unión de datos.
+
 
 ## Descripción del Proyecto
 
